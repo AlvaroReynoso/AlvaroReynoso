@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Alvaro Reynoso<br>Estudio Tecnicatura Universitaria en Programacion en UTN en la ciudad de Rosario<br>Fullstack Lover<br>
+Soy Alvaro Reynoso<br>Estudiante de Tecnicatura Universitaria en Programacion en Universidad Tecnologica Nacional en la ciudad de Rosario, Santa Fe, Argentina<br>Fullstack Lover<br>
 
 
 ## 🌐 Socials:
